@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Henex1 from Nigeria. I'm a Computer Scientist from University of Maiduguri, Nigeria. I'm core JavaScript Web developer, with a lot of project using different types Frameworks like, React js, Next js, MongoDb, Firebase, Sanity io etc. I have enomous experiense in Php, MySql, Codeigniter and currenty using JavaScripts language. 
+- 👀 I’m interested in Web development projects that invovles such language like React js, React native, Node js and other JavaScript languages.
+- 🌱 I’m currently learning currently learning Mobile App development with with React Native.
+- 💞️ I’m looking to collaborate with somenone on any of the related discipline especially Nextjs.
+- 📫 Reach me through email at henry.nnabuchi@gmail.com, +2348066337661, WhatSapp and Telegram @Henex
